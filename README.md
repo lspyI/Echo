@@ -2,7 +2,8 @@
 
 **Echo** — это высокотехнологичный голосовой ИИ-дневник, написанный на **Kotlin** с использованием **Jetpack Compose**. Приложение сочетает в себе премиальный дизайн в стиле Glassmorphism и мощные возможности современных нейросетей для анализа эмоционального состояния.
 
-<img width="591" height="1280" alt="изображение" src="https://github.com/user-attachments/assets/d7190131-246c-48f6-b5fe-7681f21c0c43" /> <img width="591" height="1280" alt="изображение" src="https://github.com/user-attachments/assets/b650843d-5cf4-48ec-b165-5fc61218727d" />
+<img width="591" height="1280" alt="изображение" src="https://github.com/user-attachments/assets/ef999123-0e3c-41e1-b695-14cf65f4c9a3" />
+
 
 ### Основные функции и технологии:
 *   **ИИ-Терапевт (Gemini 3.6 Flash)**: Мультимодальный анализ ваших мыслей, автоматическое выделение тегов и эмпатичные ответы на русском языке.
